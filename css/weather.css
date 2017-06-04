@@ -1,0 +1,35 @@
+body {
+  background: #77c8e5;
+  color: white;
+  font-family: 'Inknut Antiqua', serif;
+}
+
+.title {
+  text-align: center;
+}
+
+#description {
+  font-size: 8em;
+}
+
+#temp {
+  font-size: 6em;
+  margin-top: 0px;
+  margin-right: 25px;
+  margin-bottom: 0px;
+}
+
+i {
+  font-size: 6em;
+  margin-right: 50px;
+
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  padding: 75px 0px 75px 0px;
+}
